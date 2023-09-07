@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Cost calculator App
+
+## Practice app with dummy data
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
